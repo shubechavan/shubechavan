@@ -38,7 +38,7 @@
   <a href="mailto:shubhamchavancool332@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shubham-chavan-8014ba2a1/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
