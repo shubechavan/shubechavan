@@ -45,4 +45,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shubechavan/shubechavan/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/shubechavan/shubechavan/output/snake.svg" alt="Snake animation" /> -->
+
